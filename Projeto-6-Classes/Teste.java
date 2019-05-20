@@ -5,7 +5,7 @@ public class Teste {
 		
 		Conta c1 = new Conta();
 		c1.numero = 8585;
-		c1.nome = "MoisÃ©s";
+		c1.nome = "Moisés";
 		c1.depositar(1200.96);
 		
 		
